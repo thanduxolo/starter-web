@@ -1,0 +1,1 @@
+chmod 755 to change the file permissons
